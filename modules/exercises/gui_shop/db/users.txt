@@ -1,0 +1,5 @@
+{"username": "test", "password": "123", "first_name": "test_fn", "last_name": "test_ln", "products": []}
+{"is_admin": true}
+{"username": "test2", "password": "123", "first_name": "test_fn", "last_name": "test_ln", "products": []}
+{"username": "test3", "password": "123", "first_name": "f_n", "last_name": "l_n", "products": []}
+{"username": "", "password": "", "first_name": "", "last_name": "", "products": []}
